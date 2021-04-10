@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Kumar ![](https://visitor-badge.glitch.me/badge?page_id=kumar-asista)</h1>
+<h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Kumar </h1>
 
 <div align="center">
   
@@ -10,10 +10,6 @@
   <img align="center" alt="contactidkumar@gmail.com" src="https://img.shields.io/badge/Mail me%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://visitor-badge.glitch.me/badge?page_id=kumar-asista" target="_blank" title="Glitch Badge Score">
-  <img align="center" alt="Glitch Badge Score" src="https://img.shields.io/badge/&#47;Kumar%20-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;  
 </div>
 
 <br />
