@@ -1,9 +1,23 @@
 <h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Kumar</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-dhandapani-98446288/)](https://www.linkedin.com/in/kumar-dhandapani-98446288/)
-[![Gmail Badge](https://img.shields.io/badge/-kumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactidkumar@gmail.com)](mailto:contactidkumar@gmail.com)
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/kumar-dhandapani-98446288" target="_blank" title="Connect me on LinkedIn">
+  <img align="center" alt="Kumar's LinkdeIn" src="https://img.shields.io/badge/&#47;Kumar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:contactidkumar@gmail.com" title="Mail me">
+  <img align="center" alt="contactidkumar@gmail.com" src="https://img.shields.io/badge/Mail me%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://visitor-badge.glitch.me/badge?page_id=kumar-asista" target="_blank" title="Glitch Badge Score">
+  <img align="center" alt="Glitch Badge Score" src="https://img.shields.io/badge/&#47;Kumar%20-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=kumar-asista)
 
+  
+</div>
 <br />
 
 Hi, I'm [Kumar], a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 from India.I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
@@ -16,6 +30,8 @@ Hi, I'm [Kumar], a Senior R & D Engineer at [Asista](https://asista.com) 🚀, C
 
 **Technologies**  
 
+![C](https://img.shields.io/badge/c%20-%230080ff.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%230080ff.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -30,6 +46,7 @@ Hi, I'm [Kumar], a Senior R & D Engineer at [Asista](https://asista.com) 🚀, C
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Bash](https://img.shields.io/badge/shell_script%20-%23F05033.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
@@ -38,4 +55,9 @@ Hi, I'm [Kumar], a Senior R & D Engineer at [Asista](https://asista.com) 🚀, C
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumar-asista&count_private=true&show_icons=true&theme=gotham" alt="kumar-asista" />
+<div align="center">
 
+![Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=kumar-asista&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-asista&hide=TeX&layout=compact&theme=gotham)
+
+</div>
