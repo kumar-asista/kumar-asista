@@ -20,7 +20,7 @@
 </div>
 <br />
 
-Hi, I'm [Kumar], a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 from India.I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
+Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 from India.I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
@@ -32,29 +32,25 @@ Hi, I'm [Kumar], a Senior R & D Engineer at [Asista](https://asista.com) 🚀, C
 
 ![C](https://img.shields.io/badge/c%20-%230080ff.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%230080ff.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/java%20-%230080ff.svg?&style=for-the-badge&logo=java%2B%2B&ogoColor=white)
+![Scala](https://img.shields.io/badge/scala%20-%230080ff.svg?&style=for-the-badge&logo=scala%2B%2B&ogoColor=white)
+![Python](https://img.shields.io/badge/python%20-%230080ff.svg?&style=for-the-badge&logo=python%2B%2B&ogoColor=white)
 
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%234ea94b.svg?&style=for-the-badge&logo=Redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23316192.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/shell_script%20-%23F05033.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kumar-asista&count_private=true&show_icons=true&theme=gotham" alt="kumar-asista" />
 <div align="center">
 
 ![Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=kumar-asista&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
