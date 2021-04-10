@@ -1,12 +1,12 @@
 <h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Kumar</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-pratikdaigavane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikdaigavane/)](https://www.linkedin.com/in/pratikdaigavane/)
-[![Gmail Badge](https://img.shields.io/badge/-daigavanep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactidkumar@gmail.com)](mailto:contactidkumar@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=pratikdaigavane.pratikdaigavane)
+[![Linkedin Badge](https://img.shields.io/badge/-kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-dhandapani-98446288/)](https://www.linkedin.com/in/kumar-dhandapani-98446288/)
+[![Gmail Badge](https://img.shields.io/badge/-kumar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactidkumar@gmail.com)](mailto:contactidkumar@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=kumar-asista)
 
 <br />
 
-Hi, I'm [Kumar], a Senior R & D Engineer at [Asista] (https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 from India.I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
+Hi, I'm [Kumar], a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 from India.I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
