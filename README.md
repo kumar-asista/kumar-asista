@@ -34,7 +34,7 @@ Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Clo
 ![C++](https://img.shields.io/badge/c++%20-%230080ff.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Java](https://img.shields.io/badge/java%20-%230080ff.svg?&style=for-the-badge&logo=java%2B%2B&ogoColor=white)
 ![Scala](https://img.shields.io/badge/scala%20-%230080ff.svg?&style=for-the-badge&logo=scala%2B%2B&ogoColor=white)
-![Python](https://img.shields.io/badge/python%20-%230080ff.svg?&style=for-the-badge&logo=python%2B%2B&ogoColor=white)
+![Python](https://img.shields.io/badge/python%20-%23FF9900.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
