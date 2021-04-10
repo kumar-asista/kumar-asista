@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Kumar</h1>
+<h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Kumar ![](https://visitor-badge.glitch.me/badge?page_id=kumar-asista)</h1>
 
 <div align="center">
   
@@ -13,16 +13,14 @@
 <a href="https://visitor-badge.glitch.me/badge?page_id=kumar-asista" target="_blank" title="Glitch Badge Score">
   <img align="center" alt="Glitch Badge Score" src="https://img.shields.io/badge/&#47;Kumar%20-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=kumar-asista)
-
-  
+&nbsp;&nbsp;  
 </div>
+
 <br />
 
 Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 from India.I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
 
-  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
 **Some highlights about me:**
 
