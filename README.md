@@ -27,6 +27,7 @@ Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Clo
 - 👨🏽‍💻 Currently working on [Asista](https://asista.com), a Helpdesk and ITIL 4 based Service Management Platform
 - 🔭 I’m currently focusing on building skills 👨⌛️
 - 🌱 I’m currently learning different technologies 👨🏻‍💻
+- 🌱 Exploring DevOps and Cloud Computing.
 - 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL,DevOps, Flutter, ComputerVision, Linux,🤗🥰
 - 💬 Ask me about anything you wish for, I will we happy to<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; help you in anyway 👦🏻🥰
 - 🤩 Always ready to Participate in Hackathons 🎒
@@ -58,7 +59,7 @@ Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Clo
 
 <div align="center">
 
-![Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=kumar-asista&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-asista&hide=TeX&layout=compact&theme=gotham)
+![Kumar's Github Stats](https://github-readme-stats.vercel.app/api?username=kumar-asista&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-asista&hide=TeX&layout=compact)
 
 </div>
