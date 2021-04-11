@@ -11,10 +11,10 @@
 </a>
 &nbsp;&nbsp;
 </div>
-
+<div  align="right"> <img src="https://komarev.com/ghpvc/?username=kumar-asista&color=green" alt="Kumar"/> </div>
 <br />
 
-Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 , .I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
+Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Cloud and DevOps Enthusiast 🌩 , AI Enthusiast. I love building robust and highly secure and scalable multi tenant saas application. Beside's programming, I enjoy playing cricket, eating food and traveling.
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
