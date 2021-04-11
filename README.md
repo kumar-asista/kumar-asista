@@ -6,6 +6,10 @@
   <img align="center" alt="Kumar's LinkdeIn" src="https://img.shields.io/badge/&#47;Kumar%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
+<a href="https://twitter.com/Kumar__DA" target="_blank" title="Connect me on Twitter">
+  <img align="center" alt="Connect me on Twitter" src="https://img.shields.io/badge/&#47;Kumar%20-%00acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+&nbsp;&nbsp;
 <a href="mailto:contactidkumar@gmail.com" title="Mail me">
   <img align="center" alt="contactidkumar@gmail.com" src="https://img.shields.io/badge/Mail me%20-%23F05033?logo=gmail&style=for-the-badge&logoColor=white" />
 </a>
@@ -20,7 +24,14 @@ Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Clo
   
 **Some highlights about me:**
 
-- 👨🏽‍💻 Currently working on [Asista](https://asista.com), a Helpdesk and ITIL 4 based Service Management Platform;
+- 👨🏽‍💻 Currently working on [Asista](https://asista.com), a Helpdesk and ITIL 4 based Service Management Platform
+- 🔭 I’m currently focusing on building skills 👨⌛️
+- 🌱 I’m currently learning different technologies 👨🏻‍💻
+- 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL,DevOps, Flutter, ComputerVision, Linux,🤗🥰
+- 💬 Ask me about anything you wish for, I will we happy to<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; help you in anyway 👦🏻🥰
+- 🤩 Always ready to Participate in Hackathons 🎒
+- 🤗 Love to make new connections 👫🐥
+- ⚡ Fun fact: I am a true alpha 🐺🔥 <hr>
 
 **Technologies**  
 
