@@ -7,7 +7,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/Kumar__DA" target="_blank" title="Connect me on Twitter">
-  <img align="center" alt="Connect me on Twitter" src="https://img.shields.io/badge/&#47;Kumar%20-%00acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="center" alt="Connect me on Twitter" src="https://img.shields.io/badge/&#47;Kumar%20-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:contactidkumar@gmail.com" title="Mail me">
