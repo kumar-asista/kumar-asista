@@ -31,8 +31,7 @@ Hi, I'm Kumar, a Senior R & D Engineer at [Asista](https://asista.com) 🚀, Clo
 - 👯 I’m open to collaborate on open-source Projects in <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL,DevOps, Flutter, ComputerVision, Linux,🤗🥰
 - 💬 Ask me about anything you wish for, I will we happy to<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; help you in anyway 👦🏻🥰
 - 🤩 Always ready to Participate in Hackathons 🎒
-- 🤗 Love to make new connections 👫🐥
-- ⚡ Fun fact: I am a true alpha 🐺🔥 <hr>
+- 🤗 Love to make new connections 🐥
 
 **Technologies**  
 
